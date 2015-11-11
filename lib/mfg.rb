@@ -1,5 +1,7 @@
 require "mfg/version"
 
 module Mfg
-  # Your code goes here...
+  def self.hi
+      puts "Servus!"
+  end
 end
